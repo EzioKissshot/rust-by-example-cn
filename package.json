@@ -1,0 +1,26 @@
+{
+  "name": "rust-by-example-cn",
+  "version": "1.0.0",
+  "description": "[![Build Status][travis-image]][travis-link]  \r > Chinese translation of the [Rust By Example][rust-by-example]\r >\r > 本文档按照 [**Rust 文档翻译指引**](https://github.com/rust-lang-cn/rust-translation-guide)规范进行翻译。  \r > 首次于 2016-08-07 翻译完全部内容，欢迎纠正——最后更新时间 2019.5.3  \r > 近段时间将跟随英文版进行升级调整，欢迎大家踊跃参与，共同更新内容 —— 2019.4.20",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rust-lang-cn/rust-by-example-cn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rust-lang-cn/rust-by-example-cn/issues"
+  },
+  "homepage": "https://github.com/rust-lang-cn/rust-by-example-cn#readme",
+  "docsify": {
+    "config": {
+      "basePath": "https://rust-by-example-cn.shiki.pro/",
+      "loadSidebar": true,
+      "loadNavbar": false
+    }
+  }
+}
